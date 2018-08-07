@@ -1,0 +1,5 @@
+https://discordapp.com/api/oauth2/authorize?client_id=464785066749591574&permissions=8&scope=bot
+
+Sahipleri: 463351918220148737 , 464025836014665729
+
+Gerçek Sahibi: 463351918220148737
